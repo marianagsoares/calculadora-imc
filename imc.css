@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+   
+    -webkit-appearance: none;
+    margin: 0;
+}
+.bg-colorpage{
+    background-color: rgb(101, 25, 129);
+}
+.btn-custom{
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    background-color: rgb(101, 25, 129);
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    color: white;
+}
